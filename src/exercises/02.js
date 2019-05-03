@@ -16,10 +16,6 @@ function Counter({step = 1, initialCount = 0}) {
 }
 
 /*
-🦉 Elaboration & Feedback
-After the instruction, copy the URL below into your browser and fill out the form:
-
-http://ws.kcd.im/?ws=learn%20react%20hooks&e=02&em=
 */
 
 ////////////////////////////////////////////////////////////////////

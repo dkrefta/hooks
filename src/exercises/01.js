@@ -34,10 +34,6 @@ function Counter() {
 // is important when we talk about asynchronously updating the state.
 
 /*
-🦉 Elaboration & Feedback
-After the instruction, copy the URL below into your browser and fill out the form:
-
-http://ws.kcd.im/?ws=learn%20react%20hooks&e=01&em=
 */
 
 ////////////////////////////////////////////////////////////////////
